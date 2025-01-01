@@ -73,8 +73,6 @@ class LoginApi {
         body: jsonEncode(user),
       );
 
-      debugPrint(res.body);
-
       return res.statusCode;
     } catch (e) {
       debugPrint(e.toString());

@@ -1,3 +1,5 @@
+// ignore_for_file: use_build_context_synchronously
+
 import 'package:flutter/material.dart';
 import 'package:pcparts/pages/homepage.dart';
 import 'package:pcparts/services/login_api.dart';

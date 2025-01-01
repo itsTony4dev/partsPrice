@@ -315,6 +315,21 @@ class _SignUpState extends State<SignUp> {
     );
   }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
   @override
   void dispose() {
     _usernameController.dispose();
